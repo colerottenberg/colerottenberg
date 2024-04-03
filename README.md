@@ -1,16 +1,16 @@
-### Hi there 👋
+# Cole Rottenberg
 
-<!--
-**colerottenberg/colerottenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-Here are some ideas to get you started:
+- Full-time student at the University of Florida studying Computer Engineering
 
 - 🔭 I’m currently working on ...
+    - [AlgoGators](https://www.algogators.com/)
+    - [KneeKare Pro](https://github.com/KneeKarePro)
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+    - Fundamentals of Machine Learning
+    - Quantitative Finance
+    - Embedded Rust Development
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    - [LinkedIn](https://www.linkedin.com/in/cole-rottenberg/)
+    - **Email:** 
+        - cole&lt;dot&gt;rottenberg&lt;at&gt;gmail&lt;dot&gt;com
+        - colerottenberg&lt;at&gt;ufl&lt;dot&gt;edu
