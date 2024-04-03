@@ -1,6 +1,7 @@
 # Cole Rottenberg
 
-- Full-time student at the University of Florida studying Computer Engineering
+
+### <div align="center">I'm Cole, a full-time student at the University of Florida studying Computer Engineering</div>
 
 - 🔭 I’m currently working on ...
     - [AlgoGators](https://www.algogators.com/)
