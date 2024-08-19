@@ -4,9 +4,10 @@
     - [AlgoGators](https://www.algogators.com/)
     - [KneeKare Pro](https://github.com/KneeKarePro)
 - 🌱 I’m currently learning ...
-    - Fundamentals of Machine Learning
-    - Quantitative Finance
-    - Embedded Rust Development
+    - Machine Learning Fundamentals 
+    - Quantitative Finance and Development
+    - Rust + Embedded Rust
+    - Nix: Home-Manger, Nix-Darwin, and NixOS
 - 📫 How to reach me: ...
     - [LinkedIn](https://www.linkedin.com/in/cole-rottenberg/)
     - **Email:** 
