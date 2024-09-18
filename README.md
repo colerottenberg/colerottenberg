@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning ...
     - Machine Learning Fundamentals and Applications
     - Quantitative Finance and Development
-    - Rust
     - Nix: Home-Manger, Nix-Darwin, and NixOS
 - 📫 How to reach me: ...
     - [LinkedIn](https://www.linkedin.com/in/cole-rottenberg/)
