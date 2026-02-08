@@ -1,17 +1,17 @@
-# Hi, I'm Cole Rottenberg 👋
+# Hi, I'm Cole Rottenberg
 
 ### Software Engineer | Embedded Systems | Quantitative Trading
 
 I'm a Computer Engineering graduate from the University of Florida, currently working as a Software Engineer at **Honeywell Aerospace** developing mission-critical platform software for aerospace systems.
 
-## 🚀 About Me
+## About Me
 
-- 🔧 Working with **Xilinx Ultrascale+ MPSoC Zynq**, **DEOS RTOS**, and avionics protocols like **MIL-STD-1553**
-- 🏗️ Building platform drivers and regression testing frameworks for aerospace applications
-- 📈 Founded and led the **AlgoGators**, managing over $500K in live futures markets
-- 🎓 Graduated from the University of Florida (Dec 2024) with a BS in Computer Engineering
+- Working with **Xilinx Ultrascale+ MPSoC Zynq**, **DEOS RTOS**, and avionics protocols like **MIL-STD-1553**
+- Building platform drivers and regression testing frameworks for aerospace applications
+- Founded and led the **AlgoGators**, managing over $500K in live futures markets
+- Graduated from the University of Florida (Dec 2024) with a BS in Computer Engineering
 
-## 💼 Current Work
+## Current Work
 
 **Honeywell Aerospace** | Software Engineer – Platform Software
 *Jan 2025 – Present | St. Petersburg, FL*
@@ -21,7 +21,7 @@ I'm a Computer Engineering graduate from the University of Florida, currently wo
 - Configuring ARINC 653 frame-based scheduler for time-partitioned RTOS operation at configurable frequencies
 - Building comprehensive regression testing frameworks for platform stability
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Languages:** C, C++, Python
 
@@ -31,7 +31,7 @@ I'm a Computer Engineering graduate from the University of Florida, currently wo
 
 **Tools:** Git, Linux, GDB, JTAG, CI/CD, Real-Time Systems
 
-## 🔬 Notable Projects
+## Notable Projects
 
 ### Algorithmic Trading Engine
 
