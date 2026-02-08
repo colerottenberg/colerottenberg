@@ -18,7 +18,7 @@ I'm a Computer Engineering graduate from the University of Florida, currently wo
 
 - Developing platform drivers for Xilinx Ultrascale+ MPSoC Zynq targeting DEOS RTOS
 - Designing MIL-STD-1553 communication drivers for avionics data bus systems
-- Engineering FTP protocol implementations and watchdog timer subsystems
+- Configuring ARINC 653 frame-based scheduler for time-partitioned RTOS operation at configurable frequencies
 - Building comprehensive regression testing frameworks for platform stability
 
 ## 🛠️ Technical Skills
@@ -27,7 +27,7 @@ I'm a Computer Engineering graduate from the University of Florida, currently wo
 
 **Embedded Systems:** DEOS RTOS, ESP32, Raspberry Pi Pico 2, Xilinx SDK, Xilinx Ultrascale+ MPSoC Zynq
 
-**Protocols & Standards:** MIL-STD-1553, FTP, HTTP, Watchdog Timers, OTA Updates
+**Protocols & Standards:** MIL-STD-1553, ARINC 653, HTTP, Watchdog Timers, OTA Updates
 
 **Tools:** Git, Linux, GDB, JTAG, CI/CD, Real-Time Systems
 
