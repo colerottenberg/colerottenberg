@@ -1,5 +1,3 @@
-# Hi, I'm Cole Rottenberg
-
 ### Software Engineer | Embedded Systems | Quantitative Trading
 
 I'm a Computer Engineering graduate from the University of Florida, currently working as a Software Engineer at **Honeywell Aerospace** developing mission-critical platform software for aerospace systems.
